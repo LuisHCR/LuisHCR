@@ -2,7 +2,7 @@
 ![name-of-you-image](https://github.com/LuisHCR/LuisHCR/blob/main/banner/luishcrbanner.jpg?raw=true
 )
 <h3 align="center">
-Hi 👋, I am LuisHCR, I am interested in software development and I am currently learning backend.
+Hi 👋, I am LuisHCR, I am interested in software development and I am currently learning frontend.
 </h3>
 <p align="center">
    <a href="mailto:luishcr@pm.me" target="_blank"> Email </a> &nbsp;•&nbsp;
