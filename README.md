@@ -6,8 +6,7 @@ Hi 👋. Welcome to my profile. I am interested in software engineering and I am
 <p align="center">
   <a href="https://blog.luishcr.com" target="_blank"> Blog </a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/luishcr" target="_blank"> Linkedin </a> &nbsp;•&nbsp; 
-  <a href="https://twitter.com/LuisCubiIIos" target="_blank"> Twitter </a> &nbsp;•&nbsp; 
-  <a href="https://leetcode.com/luishcr/" target="_blank"> LeetCode </a> 
+  <a href="https://twitter.com/LuisCubiIIos" target="_blank"> Twitter </a> &nbsp;
   </p>
 
 
